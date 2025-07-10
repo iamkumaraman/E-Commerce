@@ -1,6 +1,5 @@
 package com.ecommerce.project.payload;
 
-import jakarta.persistence.Access;
 import lombok.AllArgsConstructor;
 import lombok.Data;
 import lombok.NoArgsConstructor;
